@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="buttonOneName">1</string>
+    <string name="buttonTwoName">2</string>
+    <string name="buttonThreeName">3</string>
+    <string name="buttonFourName">4</string>
+    <string name="buttonFiveName">5</string>
+    <string name="buttonSixName">6</string>
+    <string name="buttonSevenName">7</string>
+    <string name="buttonEightName">8</string>
+    <string name="buttonNineName">9</string>
+    <string name="buttonZeroName">0</string>
+    <string name="buttonDotName">.</string>
+    <string name="buttonEqualName">=</string>
+    <string name="buttonAddName">+</string>
+    <string name="buttonSquareName">^</string>
+    <string name="buttonSubtractionName">-</string>
+    <string name="buttonMultiplicationName">*</string>
+    <string name="buttonDivisionName">/</string>
+    <string name="buttonClearName">CE</string>
+    <string name="buttonSinName">Sin</string>
+    <string name="buttonCosName">Cos</string>
+    <string name="buttonTanName">Tan</string>
+    <string name="buttonLeftBracketName">(</string>
+    <string name="buttonRightBracketName">)</string>
+    <string name="buttonBackspaceName">Back</string>
+    <string name="textViewShow">0</string>
+</resources>

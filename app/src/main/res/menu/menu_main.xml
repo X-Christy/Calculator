@@ -1,0 +1,19 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="cn.edu.bistu.cs.se.c2.MainActivity">
+
+    <item
+        android:id="@+id/calculator"
+        android:orderInCategory="100"
+        android:title="计算器" />
+    <item
+        android:id="@+id/transformLength"
+        android:orderInCategory="100"
+        android:title="长度单位转换" />
+    <item
+        android:id="@+id/transformBase"
+        android:orderInCategory="100"
+        android:title="进制转换" />
+
+</menu>
